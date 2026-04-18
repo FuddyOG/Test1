@@ -606,15 +606,15 @@ local function CreateInteractiveButton(name, yPos, text, iconId, strokeColor)
 end
 
 local SubmitBtn, SubmitStroke, SubmitLabel, SubmitIcon = CreateInteractiveButton(
-    "SubmitBtn", 130, "Verify Key", "rbxassetid://100204410222834", Config.Theme.VerifyAccent
+    "SubmitBtn", 130, "Verify Key", "rbxassetid://88877080527938", Config.Theme.VerifyAccent
 )
 
 local GetKeyBtn, GetKeyStroke, GetKeyLabel, GetKeyIcon = CreateInteractiveButton(
-    "GetKeyBtn", 190, "Get Key", "rbxassetid://10884639454", Config.Theme.GetKeyAccent
+    "GetKeyBtn", 190, "Get Key", "rbxassetid://108761867864835", Config.Theme.GetKeyAccent
 )
 
 local DiscordBtn, DiscordStroke, DiscordLabel, DiscordIcon = CreateInteractiveButton(
-    "DiscordBtn", 250, "Join Discord", "rbxassetid://14751433282", Config.Theme.DiscordAccent
+    "DiscordBtn", 250, "Join Discord", "rbxassetid://95450893846739", Config.Theme.DiscordAccent
 )
 
 -- ==============================================================================
